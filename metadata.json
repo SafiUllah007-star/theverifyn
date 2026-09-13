@@ -1,0 +1,6 @@
+{
+  "name": "Verifyn",
+  "description": "Studio Light corporate intelligence and due diligence platform providing business analytics, ownership trees, patent registries, and AI risk scores for investors and researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

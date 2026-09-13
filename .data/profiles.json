@@ -1,0 +1,68 @@
+{
+  "usr_8f912a7d-b541-4e99-9231-c89b02a8e411": {
+    "id": "usr_8f912a7d-b541-4e99-9231-c89b02a8e411",
+    "email": "researcher@hedgefund-capital.com",
+    "credits": 0,
+    "is_pro": true,
+    "created_at": "2026-09-12T07:43:36.018Z",
+    "updated_at": "2026-09-13T07:57:54.475Z",
+    "lemon_squeezy_customer_id": "secret_code_test100_lifetime"
+  },
+  "usr_temp_1": {
+    "id": "usr_temp_1",
+    "email": "researcher@hedgefund-capital.com",
+    "credits": 0,
+    "is_pro": false,
+    "created_at": "2026-09-12T07:49:04.387Z",
+    "updated_at": "2026-09-12T07:49:24.793Z"
+  },
+  "usr_brand_new_incognito_user": {
+    "id": "usr_brand_new_incognito_user",
+    "email": "researcher@hedgefund-capital.com",
+    "credits": 3,
+    "is_pro": false,
+    "created_at": "2026-09-12T07:49:32.132Z",
+    "updated_at": "2026-09-12T07:49:32.132Z"
+  },
+  "usr_goog_616c65782e696e76": {
+    "id": "usr_goog_616c65782e696e76",
+    "email": "alex.investor@hedgefund-alpha.com",
+    "credits": 3,
+    "is_pro": false,
+    "created_at": "2026-09-12T08:13:11.809Z",
+    "updated_at": "2026-09-12T08:13:11.810Z"
+  },
+  "test-user-123": {
+    "id": "test-user-123",
+    "email": "test@example.com",
+    "credits": 2,
+    "is_pro": false,
+    "created_at": "2026-09-12T08:18:50.260Z",
+    "updated_at": "2026-09-12T08:31:31.906Z"
+  },
+  "usr_eml_746573742e616e61": {
+    "id": "usr_eml_746573742e616e61",
+    "email": "test.analyst@hedgefund.com",
+    "credits": 3,
+    "is_pro": false,
+    "created_at": "2026-09-13T07:22:14.757Z",
+    "updated_at": "2026-09-13T07:22:14.836Z"
+  },
+  "60cfaaf9-860f-42ae-80e4-656bd6dd9bea": {
+    "id": "60cfaaf9-860f-42ae-80e4-656bd6dd9bea",
+    "email": "researcher@hedgefund-capital.com",
+    "credits": 3,
+    "is_pro": false,
+    "created_at": "2026-09-13T07:28:04.737Z",
+    "updated_at": "2026-09-13T07:28:04.737Z"
+  },
+  "ea2c94f0-a74d-4c71-b079-be5eb36f3106": {
+    "id": "ea2c94f0-a74d-4c71-b079-be5eb36f3106",
+    "email": "researcher@hedgefund-capital.com",
+    "credits": 3,
+    "is_pro": true,
+    "created_at": "2026-09-13T07:39:57.561Z",
+    "updated_at": "2026-09-13T07:55:50.733Z",
+    "lemon_squeezy_customer_id": "secret_code_test100_lifetime"
+  }
+}
